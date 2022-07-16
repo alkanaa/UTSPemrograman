@@ -1,0 +1,8 @@
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe.config
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.AssemblyReference.cache
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.SuggestedBindingRedirects.cache
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csproj.CoreCompileInputs.cache
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\responsi pemrog\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
